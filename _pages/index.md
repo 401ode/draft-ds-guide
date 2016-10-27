@@ -2,6 +2,7 @@
 permalink: /
 title: Introduction
 ---
+
 Use this template to create [18F Guides](http://pages.18f.gov/guides/)
 and other 18F-branded documentation available on [18F
 Pages](https://pages.18f.gov/). It's structured like an 18F Guides guide,
@@ -13,7 +14,7 @@ It uses [Jekyll](http://jekyllrb.com/) as the rendering engine.
 
 ### Create a new guide/document
 
-To get started on a new guide (or other document based on this theme), 
+To get started on a new guide (or other document based on this theme),
 follow [the "Getting started" instructions in the 18F/guides-template GitHub
 repository](https://github.com/18F/guides-template/#getting-started) to create
 a local clone of this template.
