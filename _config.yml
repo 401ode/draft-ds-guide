@@ -116,7 +116,7 @@ back_link:
 
 google_analytics_ua:
 
-base_url: "https://401ode.github.io/draft-ds-guide/"
+# base_url: "https://401ode.github.io/draft-ds-guide/"
 
 collections:
   pages:
