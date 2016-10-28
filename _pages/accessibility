@@ -2,12 +2,20 @@
 title: Accessibility
 ---
 
-**Context**
+#### Context
 [Section 508 of the Federal Rehabilitation Act](https://www.section508.gov/content/learn/laws-and-policies)
 [World Wide Web Consortium’s Web Content Authoring Guidelines, Version 2](https://www.w3.org/WAI/intro/wcag.php)
 
-**Tool/Text**
+[Section 508 Standards for Electronic and Information Technology 29 USC § 794d](http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards)
+[Section 508 Laws – Section508.gov](http://www.section508.gov/)
+[Web Content Accessibility Guidelines 2.0 (WCAG 2.0) – W3C](http://www.w3.org/WAI/intro/wcag.php)
+[WCAG 2.0 Quick Reference](http://www.w3.org/WAI/WCAG20/quickref/)
+[Digital Government Strategy(May 2012)](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html)
+
+#### Tool/Text
 The platform must be in compliance with the accessibility principles of Section 508 of the Federal Rehabilitation Act and the standards documented in the World Wide Web Consortium’s Web Content Authoring Guidelines, Version 2, Level AA (WCAG2 Standards).  Towards that end, accessibility considerations should be built into every phase of the project.  Accessibility tests should be conducted before delivery and include testing results with all deliverables. 
 
-**Why**
+Ensure access for people with disabilities, including motor, auditory, cognitive, seizure/neurological, and visual impairments; ensure content is “perceivable, operable, understandable, and robust.” Teach staff how to create accessible products, and conduct accessibility testing before launch, or when making significant changes to, digital products and services.
+
+#### Why
 Right thing to do.  Also don't get sued.
